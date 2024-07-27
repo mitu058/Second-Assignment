@@ -4,11 +4,10 @@
     font-family: Miama;
     src: url("../Miama.ttf.ttf");
 }
+
 .inter{
     font-family: "Inter", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal;
+  
 }
  body{
     background-color: black;
@@ -43,6 +42,9 @@ main >section{
   justify-content: space-between;
   align-items: center;
  
+}
+.menu-icon{
+  display: none;
 }
 
 .logo{
@@ -88,7 +90,8 @@ main >section{
 
 .banner-content{
 width: 520px;
-height: 282px;
+height: auto;
+margin-bottom: 23px;
 
 }
 .banner-content h1{
@@ -445,4 +448,13 @@ hr{
   height: 50px;
   margin-top:  30px;
   font-size: 16px;
+}
+
+@media screen and (max-width:576px){
+  .nav-option {
+    display: none;
+  }
+  .banner {
+    flex-direction: column;
+}
 }

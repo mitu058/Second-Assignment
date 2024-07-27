@@ -1,0 +1,38 @@
+
+@media screen and (max-width:576px){
+   
+    .hero-container,
+     .bmi-content, 
+      .row-1,
+       .habit-content, 
+       .banner{
+      flex-direction: column;
+      grid-template-columns: 1fr;
+      gap: 2rem;
+    }
+  
+    input, select{
+      font-size: 0.6rem;
+    }
+
+    .cal-chart{
+      margin-bottom: 10px;
+    }
+   .banner-content p,
+   .img-content p{
+   width: 50%;
+   }
+    .img-content{
+        grid-template-columns: 1fr;
+        gap: 1.8rem;
+    }
+   
+  .fotter-content{
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .footer-title{
+    width: 100%;
+  }
+}
