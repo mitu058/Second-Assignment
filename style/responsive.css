@@ -15,14 +15,25 @@
     input, select{
       font-size: 0.6rem;
     }
+    
+.head-text p, 
+.habit-content p{
+  width: 80%;
+  margin: 0 auto;
+}
 
+.hero-title p{
+font-size: 14px;
+}
     .cal-chart{
       margin-bottom: 10px;
     }
+
    .banner-content p,
    .img-content p{
    width: 50%;
    }
+   
     .img-content{
         grid-template-columns: 1fr;
         gap: 1.8rem;
@@ -36,7 +47,10 @@
   .footer-title{
     width: 100%;
   }
-
+  .btn-primary .btn-1{
+    padding: 12px 50px ;
+    margin-left: 5px;
+  }
 
 
 .nav-items{
@@ -64,7 +78,7 @@ nav {
   padding-left: 10px;
 }
 .header-text-sec p {
-  width: 99%;
+  width: 80%;
 }
 
 .header-img {
@@ -81,7 +95,8 @@ nav {
 }
 
 .head-card-second {
-  width: 125px;
+
+  width: 130px;
   height: 80px;
   top: 10%;
   left:60%;
