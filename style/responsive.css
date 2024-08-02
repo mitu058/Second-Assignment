@@ -59,7 +59,7 @@
     width:30%;
     top: 10%;
     left:65%;
-    font-size: 20px;
+    
   }
   
   .btn-1 {
@@ -103,7 +103,7 @@
 }
 
 .hero-title p{
-font-size: 14px;
+font-size: 0.87rem;
 }
     .cal-chart{
       margin-bottom: 10px;

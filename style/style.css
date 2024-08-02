@@ -20,13 +20,14 @@
 
  .span-2{
     font-family: Miama;
-    font-weight: 300;  
+    font-weight: 300;
+    font-size: 5rem;
+    
 }
 
 
 .full-header {
-  background: linear-gradient(180.00deg, rgb(39, 39, 39),rgba(87, 87, 87, 0.2) 100%);    
-  margin-top: -20px;
+  background: linear-gradient(180.00deg, rgb(17, 17, 17, 0.2),rgba(119, 119, 119, 0.2) 100%);
 }
 
 .nav-icon{
@@ -42,7 +43,7 @@ nav {
 .logo h1 {
   font-size: 36px;
   font-weight: 800;
-  line-height: 120%;
+  /* line-height: 120%; */
   color:rgb(230, 83, 60);
   margin-top: 34px;
 }
