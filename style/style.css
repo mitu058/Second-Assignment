@@ -41,7 +41,7 @@ nav {
 }
 
 .logo h1 {
-  font-size: 36px;
+  font-size: 2.3rem;
   font-weight: 800;
   /* line-height: 120%; */
   color:rgb(230, 83, 60);
@@ -64,7 +64,7 @@ nav {
 .nav-items li a {
   text-decoration: none;
   padding: 7px 30px;
-  font-size: 18px;
+  font-size: 1.1rem;
   font-weight: 400;
   color: white;
 }
@@ -90,14 +90,14 @@ nav {
 
 .header-text-sec h1 {
   
-  font-size: 65px;
+  font-size: 4.1rem;
   font-weight: 900;
   color:rgb(255, 255, 255);
 }
 
 .header-text-sec p{
  color:  rgba(255, 255, 255, 0.5);
- font-size: 16px;
+ font-size: 1.1rem;
   width: 64%;
   margin: 20px 0; 
    padding: 20px 0;
@@ -118,7 +118,7 @@ nav {
   border-radius: 42px;
   background: rgb(230, 83, 60);
   border: none;
-  font-size: 15px;
+  font-size: 0.95rem;
   color: white;
 }
 
@@ -127,7 +127,7 @@ nav {
   border-radius: 42px;
   background: none;
   border: 1px solid white;
-  font-size: 15px;
+  font-size: 0.90rem;
   color: white;
   margin-left: 10px;
 }
@@ -168,20 +168,20 @@ nav {
 
 .head-second h3 {
   color: white;
-  font-size: 24px;
+  font-size: 1.5rem;
   font-weight: 900;
   margin: 18px auto 0;
 }
 
 .head-second p{
-  font-size: 16px;
+  font-size: 1rem;
   font-weight: 400;
   line-height: 24px;
   color: rgba(239, 237, 232, 0.65);
 }
 
 .head-card-second h3 {
-  font-size: 35px;
+  font-size: 2.1rem;
   font-weight: 900;
   color: rgb(255, 255, 255);
   margin: 0;
@@ -204,7 +204,7 @@ nav {
 }
 
 .head-card-second p{
-  font-size: 13px;
+  font-size: 0.82rem;
   font-weight: 400;
   color: rgba(255, 255, 255, 0.65);
 }
@@ -224,7 +224,7 @@ nav {
 }
 
 .habit-content p{
-  font-size: 14px;
+  font-size: 0.87rem;
   color: rgba(255, 255, 255, 0.5);
 }
 
@@ -257,7 +257,7 @@ text-align: center;
 .img-content p{
   width: 72%;
   margin: 0 auto;
-  font-size: 14px;
+  font-size: 0.87rem;
 color: rgba(255, 255, 255, 0.5);
 }
 
@@ -281,12 +281,12 @@ padding-left: 50px;
 
 .hero-title h1{
   color: white;
-  font-size: 35px;
+  font-size: 2.18rem;
 }
 
 .hero-title p{
   color: rgba(255, 255, 255, 0.5);
-  font-size:16px;
+  font-size:1rem;
   width: 100%;
   line-height: 25px;
   
@@ -314,7 +314,7 @@ color: white;
 }
 
 .head-text p{
-  font-size: 14px;
+  font-size: 0.87rem;
 color: rgba(255, 255, 255, 0.5);
 }
 
@@ -422,13 +422,13 @@ select{
   }
   .team-content h1{
    color: white;
-   font-size: 35px;
+   font-size: 2.18rem;
    font-weight: bold;
   }
   
   .team-content p{
       color: rgba(255, 255, 255, 0.5);
-      font-size: 14px;
+      font-size: 0.87rem;
       font-weight: 400;
       margin-bottom: 30px;
       line-height: 20px;
@@ -460,7 +460,7 @@ select{
   
   .Trainer{
       color: rgb(153, 143, 143);
-      font-size: 16px; 
+      font-size: 1rem; 
   }
 
   /* Footer style */
@@ -478,7 +478,7 @@ select{
 
 .footer-title h1{
   color: rgb(230, 83, 60);
-  font-size: 50px;
+  font-size: 3.12rem;
   font-weight: bold;
   margin-bottom: 20px;
 }
@@ -488,7 +488,7 @@ select{
 }
 
 .footer-title p{
-  font-size: 16px;
+  font-size: 1rem;
   color: rgba(255, 255, 255, 0.5);
 }
 
@@ -514,6 +514,6 @@ hr{
   text-align: center;
   height: 50px;
   margin-top:  30px;
-  font-size: 16px;
+  font-size: 1rem;
 }
 
