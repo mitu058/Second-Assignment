@@ -148,4 +148,34 @@ left: 10%; }
     padding: 12px 60px;
   }
 
+
+  /* unique setion responsive */
+
+  .service-head{
+    width: 90%;
+    margin: 20px auto 10px;
+  }
+  .service-head h1{
+    font-size: 1.3rem;
+  }
+
+  .main-box{
+  grid-template-columns: 1fr;
+  gap: 1.8rem;
+    
+  }
+
+  .box p{
+    width: 70%;
+    margin: 15px 0;
+  }
+
+ 
+
 }
+
+
+
+
+
+
