@@ -28,6 +28,7 @@
 
 .full-header {
   background: linear-gradient(180.00deg, rgb(26, 24, 24),rgba(119, 119, 119, 0.2) 100%);
+  width: 100%;
 }
 
 .nav-icon{
